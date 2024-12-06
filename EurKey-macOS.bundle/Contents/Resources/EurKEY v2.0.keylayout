@@ -53,7 +53,7 @@
             <key code="7" action="x"/>
             <key code="8" action="c"/>
             <key code="9" action="v"/>
-            <key code="10" output="§"/>
+            <key code="10" output="`"/>
             <key code="11" action="b"/>
             <key code="12" action="q"/>
             <key code="13" action="w"/>
@@ -168,7 +168,7 @@
             <key code="7" action="X"/>
             <key code="8" action="C"/>
             <key code="9" action="V"/>
-            <key code="10" output="±"/>
+            <key code="10" output="~"/>
             <key code="11" action="B"/>
             <key code="12" action="Q"/>
             <key code="13" action="W"/>
@@ -508,7 +508,7 @@
             <key code="7" output="Á"/>
             <key code="8" output="Ç"/>
             <key code="9" output="Ì"/>
-            <key code="10" output="±"/>
+            <key code="10" output="~"/>
             <key code="11" output="Í"/>
             <key code="12" action="Æ"/>
             <key code="13" output="Å"/>
