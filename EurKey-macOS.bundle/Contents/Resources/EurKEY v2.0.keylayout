@@ -49,7 +49,7 @@
             <key code="3" action="f"/>
             <key code="4" action="h"/>
             <key code="5" action="g"/>
-            <key code="6" action="z"/>
+            <key code="6" action="y"/>
             <key code="7" action="x"/>
             <key code="8" action="c"/>
             <key code="9" action="v"/>
@@ -59,7 +59,7 @@
             <key code="13" action="w"/>
             <key code="14" action="e"/>
             <key code="15" action="r"/>
-            <key code="16" action="y"/>
+            <key code="16" action="z"/>
             <key code="17" action="t"/>
             <key code="18" action="1"/>
             <key code="19" action="2"/>
@@ -164,7 +164,7 @@
             <key code="3" action="F"/>
             <key code="4" action="H"/>
             <key code="5" action="G"/>
-            <key code="6" action="Z"/>
+            <key code="6" action="Y"/>
             <key code="7" action="X"/>
             <key code="8" action="C"/>
             <key code="9" action="V"/>
@@ -174,7 +174,7 @@
             <key code="13" action="W"/>
             <key code="14" action="E"/>
             <key code="15" action="R"/>
-            <key code="16" action="Y"/>
+            <key code="16" action="Z"/>
             <key code="17" action="T"/>
             <key code="18" action="!"/>
             <key code="19" action="@"/>
@@ -276,7 +276,7 @@
             <key code="3" action="F"/>
             <key code="4" action="H"/>
             <key code="5" action="G"/>
-            <key code="6" action="Z"/>
+            <key code="6" action="Y"/>
             <key code="7" action="X"/>
             <key code="8" action="C"/>
             <key code="9" action="V"/>
@@ -286,7 +286,7 @@
             <key code="13" action="W"/>
             <key code="14" action="E"/>
             <key code="15" action="R"/>
-            <key code="16" action="Y"/>
+            <key code="16" action="Z"/>
             <key code="17" action="T"/>
             <key code="18" action="1"/>
             <key code="19" action="2"/>
@@ -1389,8 +1389,8 @@
             <when state="⌥m" output="Ξ"/>
             <when state="⌥⇧m" output="∄"/>
         </action>
-        <action id="Y">
-            <when state="none" output="Y"/>
+        <action id="Z">
+            <when state="none" output="Z"/>
             <when state="⌥6" output="Ŷ"/>
             <when state="⌥⇧`" output="Ỹ"/>
             <when state="⌥⇧'" output="Ÿ"/>
@@ -1398,8 +1398,8 @@
             <when state="⌥'" output="Ý"/>
             <when state="⌥m" output="Υ"/>
         </action>
-        <action id="Z">
-            <when state="none" output="Z"/>
+        <action id="Y">
+            <when state="none" output="Y"/>
             <when state="⌥'" output="Ź"/>
             <when state="⌥⇧6" output="Ž"/>
             <when state="⌥7" output="Ż"/>
@@ -1642,8 +1642,8 @@
             <when state="⌥⇧'" output="ẍ"/>
             <when state="⌥m" output="ξ"/>
         </action>
-        <action id="y">
-            <when state="none" output="y"/>
+        <action id="z">
+            <when state="none" output="z"/>
             <when state="⌥6" output="ŷ"/>
             <when state="⌥⇧`" output="ỹ"/>
             <when state="⌥⇧'" output="ÿ"/>
@@ -1652,8 +1652,8 @@
             <when state="⌥7" output="ẙ"/>
             <when state="⌥m" output="υ"/>
         </action>
-        <action id="z">
-            <when state="none" output="z"/>
+        <action id="y">
+            <when state="none" output="y"/>
             <when state="⌥'" output="ź"/>
             <when state="⌥⇧6" output="ž"/>
             <when state="⌥7" output="ż"/>
